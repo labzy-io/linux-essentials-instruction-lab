@@ -1,7 +1,7 @@
 # Linux Essentials — Detailed Lab Overview
 
 ## Duration
-**2 Hours (12 Steps)**
+**3 Hours (12 Steps)**
 
 ## Audience
 This lab is designed for **complete beginners** (equivalent to 10th grade students) who are learning Linux and the terminal for the first time.  
@@ -24,12 +24,12 @@ By the end of this lab, you will be able to:
 8. Archive and compress files using `tar` and `gzip`.  
 9. Use the package manager (`apt`) to install and remove software.  
 10. Write and run simple shell scripts.  
-11. Initialize and commit code to a Git repository.  
+11. Permissions Challenge.  
 12. Troubleshoot connectivity and DNS resolution.
 
 ## Structure
-- **Steps 1–10**: Core Linux skills (approx. 100 minutes).  
-- **Steps 11–12**: Validation tasks with helpers (approx. 20 minutes).  
+- **Steps 1–10**: Core Linux skills (approx. 200 minutes).  
+- **Steps 11–12**: Validation tasks with helpers (approx. 30 minutes).  
 - Each step is **10 minutes** on average, but you may take longer as you practice.
 
 ## Requirements

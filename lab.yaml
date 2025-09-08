@@ -9,49 +9,49 @@ sections:
     - id: 1
       title: "Terminal Basics"
       path: "docs/01_terminal_basics.md"
-      estimated_minutes: 10
+      estimated_minutes: 20
     - id: 2
       title: "Navigation & File Operations"
       path: "docs/02_navigation_file_ops.md"
-      estimated_minutes: 10
+      estimated_minutes: 20
     - id: 3
       title: "Searching & Text Viewing"
       path: "docs/03_searching_text.md"
-      estimated_minutes: 10
+      estimated_minutes: 20
     - id: 4
       title: "Process Management"
       path: "docs/04_process_management.md"
-      estimated_minutes: 10
+      estimated_minutes: 20
     - id: 5
       title: "Permissions & Ownership"
       path: "docs/05_permissions.md"
-      estimated_minutes: 10
+      estimated_minutes: 15
     - id: 6
       title: "System Info & Monitoring"
       path: "docs/06_system_info.md"
-      estimated_minutes: 10
+      estimated_minutes: 20
     - id: 7
       title: "Networking Basics"
       path: "docs/07_networking.md"
-      estimated_minutes: 10
+      estimated_minutes: 25
     - id: 8
       title: "Archiving & Compression"
       path: "docs/08_archiving.md"
-      estimated_minutes: 10
+      estimated_minutes: 25
     - id: 9
       title: "Package Management"
       path: "docs/09_package_mgmt.md"
-      estimated_minutes: 10
+      estimated_minutes: 30
     - id: 10
       title: "Basic Scripting"
       path: "docs/10_scripting.md"
-      estimated_minutes: 10
+      estimated_minutes: 30
     - id: 11
       title: "Permissions Challenge (Validation Task)"
       path: "docs/11_permissions_task.md"
       helper_path: "helpers/11_permissions_task.md"
       validation_script: "validate/11_permissions_task.sh"
-      estimated_minutes: 10
+      estimated_minutes: 20
     - id: 12
       title: "Networking Troubleshooting (Validation Task)"
       path: "docs/12_network_troubleshooting.md"
